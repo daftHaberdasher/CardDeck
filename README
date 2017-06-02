@@ -1,0 +1,9 @@
+CardDeck
+by Avery Scott II
+
+Uses the NUnit 3.7.0 C# UnitTesting Framework.
+
+Tested using the Visual Studio 2017 Community Mac edition & the Visual Studio 2015 Community Windows edition.
+For testing in the VS 2015 Windows addition, download and install the NUnit 3 Test Adapter from:
+
+https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnit3TestAdapter
