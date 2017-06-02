@@ -1,6 +1,8 @@
 CardDeck
 by Avery Scott II
 
+A simple Console program for creating, sorting, and shuffling a deck of playing cards.
+
 Uses the NUnit 3.7.0 C# UnitTesting Framework.
 
 Tested using the Visual Studio 2017 Community Mac edition & the Visual Studio 2015 Community Windows edition.
