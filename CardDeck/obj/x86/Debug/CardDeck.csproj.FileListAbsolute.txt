@@ -1,0 +1,8 @@
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/obj/x86/Debug/CardDeck.csprojResolveAssemblyReference.cache
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/obj/x86/Debug/CardDeck.csproj.CoreCompileInputs.cache
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/bin/Debug/CardDeck.exe
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/bin/Debug/CardDeck.pdb
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/bin/Debug/nunit.framework.dll
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/bin/Debug/nunit.framework.xml
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/obj/x86/Debug/CardDeck.exe
+/Users/AlphaeusVII/Projects/CardDeck/CardDeck/obj/x86/Debug/CardDeck.pdb
